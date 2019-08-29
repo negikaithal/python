@@ -25,3 +25,4 @@ if __name__ == "__main__":
     app = wx.App()
     frame = MyForm().Show()
     app.MainLoop()
+    print("hello")
