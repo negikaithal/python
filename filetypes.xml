@@ -5,6 +5,7 @@
       <mapping pattern="yahooemail" type="PLAIN_TEXT" />
       <mapping pattern="fetch data from database.py" type="PLAIN_TEXT" />
       <mapping pattern="tut13py" type="PLAIN_TEXT" />
+      <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
